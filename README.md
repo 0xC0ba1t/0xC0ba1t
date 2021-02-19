@@ -10,3 +10,6 @@ I am Aditya Patil 10 year-old software developer and Cybersecurity Student:
 - 📫 How to reach me: <a href="mailto:admin@cybersafe.ezyro.com">E-Mail</a> <a href="http://www.cybersafe.ezyro.com">Website</a> <a href="http://www.cybersafe.ezyro.com/contact">Contact Form</a>
 - ⚡ Fun fact: 'CEO' Of CyberSafe Labs, Inc.
 -->
+- ⚡ Stats:
+
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaCyberSafe)](https://github.com/anuraghazra/github-readme-stats)
