@@ -2,7 +2,7 @@
 
 I am Aditya Patil 10 year-old software developer and Cybersecurity Student:
 
-- 🔭 I’m currently working on EcoOS, CodeHub, Kwick Browser (Released), <a href="cybersearch.herokuapp.com">CyberSearch: A Search Engine written in Python and scrapes results from Bing and Wikipedia.</a>
+- 🔭 I’m currently working on EcoOS, CodeHub, Kwick Browser (Released), <a href="cybersearch.herokuapp.com">CyberSearch: A Search Engine written in Python and scrapes results from Bing and Wikipedia.</a> and <a href="http://www.cyberencrypt.ezyro.com">CyberEncrypt CA</a>.
 - 🌱 I’m currently learning Cybersecurity, JavaScript, Node.js and ReactJS
 - 👯 I’m looking to collaborate on Python and HTML projects
 - 🤔 I’m looking for help with Eco OS
@@ -14,4 +14,4 @@ I am Aditya Patil 10 year-old software developer and Cybersecurity Student:
 
 ![Known Languages](https://img.shields.io/badge/Known%20Languages-Python%2C%20HTML%2C%20JavaScript%2C%20C%23%2C%20Basic%20ReactJS-brightgreen?style=for-the-badge&logo=appveyor)
 
-[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaCyberSafe)](https://github.com/anuraghazra/github-readme-stats)
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaCyberSafe)]
