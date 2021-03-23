@@ -16,4 +16,4 @@ I am Aditya Patil 10 year-old software developer and Cybersecurity Student:
 
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaCyberSafe)
 
-![CyberSafeGif](https://www.canva.com/design/DAELdNLqA3M/5NtHdWzDh2zHvvH3lE1YRg/watch?utm_content=DAELdNLqA3M&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+<iframe src="https://www.canva.com/design/DAELdNLqA3M/5NtHdWzDh2zHvvH3lE1YRg/watch?utm_content=DAELdNLqA3M&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
