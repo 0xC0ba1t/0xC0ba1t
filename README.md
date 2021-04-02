@@ -16,4 +16,10 @@ I am Aditya Patil 10 year-old software developer and Cybersecurity Student:
 
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaCyberSafe)
 
+# Favourite Repos
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CyberSafe-Labs&repo=cyberreant-devel&show_owner=true&theme=dark)](https://github.com/CyberSafe-Labs/cyberreant-devel)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CyberSafe-Labs&repo=Kwick-Browser&show_owner=true&theme=dark)](https://github.com/CyberSafe-Labs/Kwick-Browser)
+
 <img src="IMG_20210323_111626.JPG">
