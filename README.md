@@ -8,7 +8,7 @@ I am Aditya Patil 10 year-old software developer and Cybersecurity Student:
 - 🤔 I’m looking for help with Eco OS
 - 💬 Ask me about Python and HTML
 - 📫 How to reach me: <a href="mailto:admin@cybersafe.ezyro.com">E-Mail</a> <a href="http://www.cybersafe.ezyro.com">Website</a> <a href="http://www.cybersafe.ezyro.com/contact">Contact Form</a>
-- ⚡ Fun fact: 'CEO' Of CyberSafe Labs, Inc.
+- ⚡ Fun facts: 'CEO' Of CyberSafe Labs, Inc. Crushes on: [ REDACTED ]
 - ⚡ Note: Bionic has been transfered to Eakyns/Bionic (Bionic is a continuation of my previous project Comma (A high-performence RISC-V Processor) )
 -->
 - ⚡ Stats:
