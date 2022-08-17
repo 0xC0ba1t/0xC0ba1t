@@ -15,7 +15,7 @@ I am Aditya Patil 11 year-old software developer and Cybersecurity Student:
 
 ![Known Languages](https://img.shields.io/badge/Known%20Languages-Python%2C%20HTML%2C%20JavaScript%2C%20C%23%2C%20Basic%20ReactJS-brightgreen?style=for-the-badge&logo=appveyor)
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaCyberSafe)
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=VectorAnimator)
 
 # Favourite Repos
 
