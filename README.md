@@ -6,6 +6,7 @@
 
 I am Aditya Patil <del>11</del>12 year-old software developer and Cybersecurity Student:
 I am very passionate about low-level hw/sw, computers in general as well as microprocessors/microarchitecture design [Microarchitecture is more of an art than a talent!]
+
 Hobbies ✨:
 - 💻 Coding (Duh!)
 - 👨‍💻 Hacking (Plz Don't arrest me FBI!)
