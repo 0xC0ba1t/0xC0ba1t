@@ -5,15 +5,25 @@
 
 
 I am Aditya Patil <del>11</del>12 year-old software developer and Cybersecurity Student:
+I am very passionate about low-level hw/sw, computers in general as well as microprocessors/microarchitecture design [Microarchitecture is more of an art than a talent!]
+Hobbies ✨:
+- 💻 Coding (Duh!)
+- 👨‍💻 Hacking (Plz Don't arrest me FBI!)
+- 🔭🌌 Science (Quantum Physics, Physics, Chemistry, and Astronomy)
+- 🎾 Badminton
+- 🎮 Gaming (Call of Duty Simp <3)
+- 📟 Hardware Design (Definitely a certified CPU Architect)
+- 📚 Studying (Who hates school?)
+- 🏁 Watching F1 (Charles Leclerc for life ❤️)
 
-- 🔭 I’m currently working on EcoOS, CodeHub, Kwick Browser (Released), <a href="cybersearch.herokuapp.com">CyberSearch: A Search Engine written in Python and scrapes results from Bing and Wikipedia.</a> and <a href="https://cyberencryptca.github.io/website/">CyberEncrypt CA: An Open-Source Free Certificate Authority</a><a href="https://github.com/CyberEncryptCA/certificates"> View Source Code</a> And my lateset project Comma: An open-source high performence RISC V processor. Currently My Most Ambitious Project: <a href="">0xff
+- 🔭 I’m currently working on EcoOS, CodeHub, Kwick Browser (Released), <a href="cybersearch.herokuapp.com">CyberSearch: A Search Engine written in Python and scrapes results from Bing and Wikipedia.</a> and <a href="https://cyberencryptca.github.io/website/">CyberEncrypt CA: An Open-Source Free Certificate Authority</a><a href="https://github.com/CyberEncryptCA/certificates"> View Source Code</a> And my lateset project Comma: An open-source high performence RISC V processor. Currently My Most Ambitious Project: <a href="github.com/0xC0ba1t/0xff">0xff</a>, a cool little rust microkernel! And <a href="github.com/trrsrobotics/Asterisk">Asterisk</a>; a nice little, soon-to-be:tm: high performance CPU I am actively working on as a school robotics team project
 - 🌱 I’m currently learning Cybersecurity, JavaScript, Node.js and ReactJS
 - 👯 I’m looking to collaborate on Python and HTML projects
 - 🤔 I’m looking for help with Eco OS
 - 💬 Ask me about Python and HTML
 - 📫 How to reach me: <a href="mailto:adipatil2912@gmail.com">E-Mail</a> <a href="http://www.cybersafe.ezyro.com">Website</a> <a href="http://www.cybersafe.ezyro.com/contact">Contact Form</a>
 - ⚡ Fun facts: Student @ The Roman Ridge School Robotics Advanced Group, intimidated by *Breadboards*; *Arduino*; *Cryptography*; and 74xx TTL; 
-- Crushes on: Processors
+- Crushes on: Processors, F1, Old Hardware, 6502, Z80, 74xxx
 -->
 
 - ⚡ Stats:
@@ -24,11 +34,11 @@ I am Aditya Patil <del>11</del>12 year-old software developer and Cybersecurity 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xC0ba1t)](https://github.com/0xC0ba1t)
 
-# Favourite Repos
+# Favourite Repos [Ones that I worked on!]
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CyberSafe-Labs&repo=AquaLang&show_owner=true&theme=dark)](https://github.com/CyberSafe-Labs/AquaLang)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AdityaCyberSafe&repo=EnvieDB&show_owner=true&theme=dark)](https://github.com/AdityaCyberSafe/EnvieDB)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=trrsrobotics&repo=Asterisk&show_owner=true&theme=dark)](https://github.com/0xC0ba1t/Asterisk)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CyberSafe-Labs&repo=Kwick-Browser&show_owner=true&theme=dark)](https://github.com/CyberSafe-Labs/Kwick-Browser)
 
