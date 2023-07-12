@@ -18,11 +18,13 @@ Hobbies ✨:
 - 🏁 Watching F1 (Charles Leclerc for life ❤️)
 
 - 🔭 I’m currently working on EcoOS, CodeHub, Kwick Browser (Released), <a href="cybersearch.herokuapp.com">CyberSearch: A Search Engine written in Python and scrapes results from Bing and Wikipedia.</a> and <a href="https://cyberencryptca.github.io/website/">CyberEncrypt CA: An Open-Source Free Certificate Authority</a><a href="https://github.com/CyberEncryptCA/certificates"> View Source Code</a> And my lateset project Comma: An open-source high performence RISC V processor. Currently My Most Ambitious Project: <a href="github.com/0xC0ba1t/0xff">0xff</a>, a cool little rust microkernel! And <a href="https://github.com/trrsrobotics/Asterisk">Asterisk</a>; a nice little, soon-to-be:tm: high performance CPU I am actively working on as a school robotics team project
-- 🌱 I’m currently learning Cybersecurity, JavaScript, Node.js and ReactJS
+
+  
+- 🌱 I’m currently learning Cybersecurity, ROS, Microprocessor Design, And Animation!
 - 👯 I’m looking to collaborate on Python and HTML projects
-- 🤔 I’m looking for help with Eco OS
-- 💬 Ask me about Python and HTML
-- 📫 How to reach me: <a href="mailto:adipatil2912@gmail.com">E-Mail</a> <a href="http://www.cybersafe.ezyro.com">Website</a> <a href="http://www.cybersafe.ezyro.com/contact">Contact Form</a>
+- 🤔 I’m looking for help with Asterisk [please send help!]
+- 💬 Ask me about Python, Some Rust-y Stuff,  and Microarchitectures
+- 📫 How to reach me: <a href="mailto:adipatil2912@gmail.com">E-Mail</a> <a href="http://www.cybersafe.ezyro.com">Website</a> <a href="http://www.cybersafe.ezyro.com/contact">Contact Form</a> <a href="mailto:adityapatil@trrsrobotics.ezyro.com">E-mail Used For My School's Robotics Stuff</a>
 - ⚡ Fun facts: Student @ The Roman Ridge School Robotics Advanced Group, intimidated by *Breadboards*; *Arduino*; *Cryptography*; and 74xx TTL; 
 - Crushes on: Processors, F1, Old Hardware, 6502, Z80, 74xxx
 -->
@@ -42,5 +44,9 @@ Hobbies ✨:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=trrsrobotics&repo=Asterisk&show_owner=true&theme=dark)](https://github.com/0xC0ba1t/Asterisk)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CyberSafe-Labs&repo=Kwick-Browser&show_owner=true&theme=dark)](https://github.com/CyberSafe-Labs/Kwick-Browser)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=300&pause=1000&color=F76B6B&width=435&lines=Hiya+Again!;I+work+on+Asterisk%2C+and+many+other+projects;Fun+Facts+%3A%3A%3A+%3E%3E;Very+Big+Night+Owl;Always+first+in+computing;Suck+at+art;Have+a+Dog+called+%5BREDACTED%5D;Leader+of+the+Advanced+Robotics+Team;...have+a+nice+day!!+%3AD)](https://git.io/typing-svg)
+
 
 <img src="IMG_20210323_111626.JPG">
