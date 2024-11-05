@@ -39,9 +39,11 @@ Hobbies ✨:
 
 # Favourite Repos [Ones that I worked on!]
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=0xC0ba1t&repo=SnapdragonLLM&show_owner=true&theme=dark)](https://github.com/0xC0ba1t/SnapdragonLLM)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CyberSafe-Labs&repo=AquaLang&show_owner=true&theme=dark)](https://github.com/CyberSafe-Labs/AquaLang)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=trrsrobotics&repo=Asterisk&show_owner=true&theme=dark)](https://github.com/0xC0ba1t/Asterisk)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=trrsrobotics&repo=Asterisk&show_owner=true&theme=dark)](https://github.com/trrsrobotics/Asterisk)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CyberSafe-Labs&repo=Kwick-Browser&show_owner=true&theme=dark)](https://github.com/CyberSafe-Labs/Kwick-Browser)
 
