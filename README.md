@@ -39,16 +39,13 @@ Hobbies ✨:
 
 # Favourite Repos [Ones that I worked on!]
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=0xC0ba1t&repo=zero&show_owner=true&theme=dark)](https://github.com/0xC0ba1t/zero)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=0xC0ba1t&repo=SnapdragonLLM&show_owner=true&theme=dark)](https://github.com/0xC0ba1t/SnapdragonLLM)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CyberSafe-Labs&repo=AquaLang&show_owner=true&theme=dark)](https://github.com/CyberSafe-Labs/AquaLang)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=0xC0ba1t&repo=prettyprint&show_owner=true&theme=dark)](https://github.com/0xC0ba1t/prettyprint)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=trrsrobotics&repo=Asterisk&show_owner=true&theme=dark)](https://github.com/trrsrobotics/Asterisk)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CyberSafe-Labs&repo=Kwick-Browser&show_owner=true&theme=dark)](https://github.com/CyberSafe-Labs/Kwick-Browser)
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=300&pause=1000&color=F76B6B&width=435&lines=Hiya+Again!;I+work+on+Asterisk%2C+and+many+other+projects;Fun+Facts+%3A%3A%3A+%3E%3E;Very+Big+Night+Owl;Always+first+in+computing;Suck+at+art;Have+a+Dog+called+%5BREDACTED%5D;Leader+of+the+Advanced+Robotics+Team;...have+a+nice+day!!+%3AD)](https://git.io/typing-svg)
-
-
-<img src="IMG_20210323_111626.JPG">
