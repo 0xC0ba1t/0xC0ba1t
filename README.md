@@ -97,6 +97,6 @@ I am Aditya Patil <del>11</del> <del>12</del> <del>13</del> 14 year-old software
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=300&pause=1000&color=F76B6B&width=435&lines=Hiya+Again!;I+work+on+zero%2C+and+many+other+projects;Fun+Facts+%3A%3A%3A+%3E%3E;Huge+Night+Owl;Always+first+in+Computer+Science;Suck+at+art;Have+a+Dog+called+%5BREDACTED%5D;Leader+of+the+Advanced+Robotics+Team;...have+a+nice+day!!+%3AD)
 
-<br>
+  <br clear="both">
 
-  <img src="https://raw.githubusercontent.com/0xC0ba1t/0xC0ba1t/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+<img src="https://raw.githubusercontent.com/0xC0ba1t/0xC0ba1t/output/pacman-contribution-graph.svg" alt="Pacman animation" />
