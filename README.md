@@ -15,7 +15,7 @@ I am Aditya Patil <del>11</del> <del>12</del> <del>13</del> 14 year-old software
 
 <br>
 
-  ```!! hobbies```
+  ### ```!! hobbies```
 - 📔 Coding
 - 👨‍💻 Hacking
 - 🌌 Science (Quantum Physics, Physics, Chemistry, and Astronomy)
@@ -28,12 +28,23 @@ I am Aditya Patil <del>11</del> <del>12</del> <del>13</del> 14 year-old software
 
 <br>
 
-```console.log("about Projects:");```
-- 🔭 I’m currently working on zero
-- And my lateset project, prettyprint: An implementation of stable diffusion in PyTorch. Currently My Most Ambitious Project: <a href="github.com/0xC0ba1t/zero">zero</a>, a cool little rust OS based on phil-opp's blog! And <a href="https://github.com/trrsrobotics/Asterisk">Asterisk</a>; a nice little, soon-to-be:tm: high performance CPU I am actively working on as a school robotics team project
+### ```console.log("about Projects:");```
+
 <br>
 
-```use about::tech::stack;```
+```pub fn _current_projects() {``` ```zero: rust_os``` ```prettyprint: stable_diffusion_pytorch``` ```}```
+
+<br>
+
+```pub fn _latest_project() {``` ```prettyprint: stable_diffusion_pytorch``` ```}```
+
+<br>
+
+```pub fn _most_ambitious_project() {``` ```zero: rust_os``` ```}```
+
+<br>
+
+### ```use about::tech_stack;```
 
 <br>
 
@@ -57,7 +68,7 @@ I am Aditya Patil <del>11</del> <del>12</del> <del>13</del> 14 year-old software
 
 <br>
 
-```fn random_() {```
+### ```fn random_items(something) {```
   
 - 🌱 I’m currently learning Cybersecurity, ROS, Microprocessor Design, Rust, Data Structures & Algorithms and ML!
 - 🤔 I’m looking for help with Asterisk [please send help!]
@@ -73,7 +84,7 @@ I am Aditya Patil <del>11</del> <del>12</del> <del>13</del> 14 year-old software
 <br>
 <br>
 
-```def statistics():```
+### ```def statistics():```
 
 <br>
 
