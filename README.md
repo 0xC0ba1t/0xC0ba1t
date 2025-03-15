@@ -66,6 +66,8 @@ I am Aditya Patil <del>11</del> <del>12</del> <del>13</del> 14 year-old software
 - ⚡ Fun facts: Student @ The Roman Ridge School Robotics Advanced Group, intimidated by *Breadboards*; *Arduino*; *Cryptography*; and 74xx TTL; 
 - Crushes on: Processors, F1, Old Hardware, 6502, Z80, 74xxx
 -->
+
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fceraqlmys5mcahsmxhnyfq3ce&unique=true)
   
 ```}```
 <br>
