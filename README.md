@@ -28,7 +28,7 @@ I am Aditya Patil <del>11</del> <del>12</del> <del>13</del> 14 year-old software
 
 <br>
 
-### ```console.log("about Projects:");```
+### ```console.warn("about projects");```
 
 <br>
 
@@ -44,7 +44,7 @@ I am Aditya Patil <del>11</del> <del>12</del> <del>13</del> 14 year-old software
 
 <br>
 
-### ```use about::tech_stack;```
+### ```use about::tech_stack::all;```
 
 <br>
 
@@ -84,7 +84,7 @@ I am Aditya Patil <del>11</del> <del>12</del> <del>13</del> 14 year-old software
 <br>
 <br>
 
-### ```def statistics():```
+### ```def statistics(known_langs, gh_profile, top_langs):```
 
 <br>
 
@@ -94,7 +94,7 @@ I am Aditya Patil <del>11</del> <del>12</del> <del>13</del> 14 year-old software
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xC0ba1t&layout=compact)](https://github.com/0xC0ba1t)
 
-### ```pub unsafe fn fav_repos(repo_index) {```
+### ```pub unsafe fn fav_repos(repo_index: u8) {```
 
 <br>
 
