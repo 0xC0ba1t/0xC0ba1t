@@ -104,6 +104,8 @@ I am Aditya Patil <del>11</del> <del>12</del> <del>13</del> 14 year-old software
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=0xC0ba1t&repo=prettyprint&show_owner=true&theme=dark)](https://github.com/0xC0ba1t/prettyprint)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=0xC0ba1t&repo=0xc0ba1t.github.io&show_owner=true&theme=dark)](https://github.com/0xC0ba1t/0xc0ba1t.github.io)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=trrsrobotics&repo=Asterisk&show_owner=true&theme=dark)](https://github.com/trrsrobotics/Asterisk)
 
 ```}```
