@@ -73,7 +73,7 @@ I am Aditya Patil <del>11</del> <del>12</del> <del>13</del> 14 year-old software
 - 🌱 I’m currently learning Cybersecurity, ROS, Microprocessor Design, Rust, Data Structures & Algorithms and ML!
 - 🤔 I’m looking for help with Asterisk [please send help!]
 - 💬 Ask me about Python, Some Rust-y Stuff, and Microarchitectures
-- 📫 How to reach me: <a href="mailto:adipatil2912@gmail.com">E-Mail</a> <a href="http://www.cybersafe.ezyro.com">Website</a> <a href="http://www.cybersafe.ezyro.com/contact">Contact Form</a> <a href="mailto:adityapatil@trrsrobotics.ezyro.com">E-mail Used For My School's Robotics Stuff</a>
+- 📫 How to reach me: <a href="mailto:adipatil2912@gmail.com">E-Mail</a> <a href="https://c0ba1t.is-a.dev/">Website</a> <a href="https://c0ba1t.is-a.dev/hey">Contact Me</a> <a href="mailto:adityapatil@trrsrobotics.ezyro.com">E-mail Used For My School's Robotics Stuff</a>
 - ⚡ Fun facts: Student @ The Roman Ridge School Robotics Advanced Group, intimidated by *Breadboards*; *Arduino*; *Cryptography*; and 74xx TTL; 
 - Crushes on: Processors, F1, Old Hardware, 6502, Z80, 74xxx
 -->
