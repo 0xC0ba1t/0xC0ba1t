@@ -15,6 +15,8 @@ I am Aditya Patil <del>11</del> <del>12</del> <del>13</del> 14 year-old software
 
 <br>
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fceraqlmys5mcahsmxhnyfq3ce&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31fceraqlmys5mcahsmxhnyfq3ce&redirect=true)
+
   ### ```!! hobbies```
 - 📔 Coding
 - 👨‍💻 Hacking
