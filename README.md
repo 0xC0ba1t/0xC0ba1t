@@ -6,7 +6,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+My+Name+is+Aditya!+Rust+Dev%2C+;And+low-level+Enthusiast;Working+on+Cool+stuff%3A+zero%2C;I'm+a+Student+at%3A;The+Roman+Ridge+School+%5BF4A%5D)
 <br>
-I am Aditya Patil <del>11</del> <del>12</del> <del>13</del> 14 year-old software developer, ML student, Graphics Student and Cybersecurity Student
+I am Aditya Patil <del>11</del> <del>12</del> <del>13</del> <del>14</del> year-old software developer, ML student, Graphics Student and Cybersecurity Student
 
 <br>
 
@@ -18,15 +18,15 @@ I am Aditya Patil <del>11</del> <del>12</del> <del>13</del> 14 year-old software
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fceraqlmys5mcahsmxhnyfq3ce&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31fceraqlmys5mcahsmxhnyfq3ce&redirect=true)
 
   ### ```!! hobbies```
-- 📔 Coding
-- 👨‍💻 Hacking
-- 🌌 Science (Quantum Physics, Physics, Chemistry, and Astronomy)
-- 🎾 Badminton
-- 🎮 Gaming
-- 📟 Hardware Design 
-- 💾 Learning
-- 📁 Hoarding Data 
-- 🏁 Watching F1 
+- Coding
+-  Hacking
+-  Science (Quantum Physics, Physics, Chemistry, and Astronomy)
+-  Badminton
+-  Gaming
+-  Hardware Design 
+-  Learning
+-  Hoarding Data 
+-  Watching F1 
 
 <br>
 
