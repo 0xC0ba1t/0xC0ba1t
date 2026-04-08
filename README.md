@@ -11,14 +11,14 @@ I am Aditya Patil <del>11</del> <del>12</del> <del>13</del> <del>14</del> 15 yea
 <br>
 
     I am very passionate about low-level hw/sw, computers in general as well as microprocessors/microarchitecture 
-    design [Microarchitecture is more of an art than a talent!]
+    design
 
 <br>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fceraqlmys5mcahsmxhnyfq3ce&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31fceraqlmys5mcahsmxhnyfq3ce&redirect=true)
 
   ### ```!! hobbies```
-- Coding
+-  Coding
 -  Hacking
 -  Science (Quantum Physics, Physics, Chemistry, and Astronomy)
 -  Badminton
@@ -72,12 +72,11 @@ I am Aditya Patil <del>11</del> <del>12</del> <del>13</del> <del>14</del> 15 yea
 
 ### ```fn random_items(something) {```
   
-- 🌱 I’m currently learning Cybersecurity, ROS, Microprocessor Design, Rust, Data Structures & Algorithms and ML!
-- 🤔 I’m looking for help with Asterisk [please send help!]
-- 💬 Ask me about Python, Some Rust-y Stuff, and Microarchitectures
-- 📫 How to reach me: <a href="mailto:adipatil2912@gmail.com">E-Mail</a> <a href="https://c0ba1t.is-a.dev/">Website</a> <a href="https://c0ba1t.is-a.dev/hey">Contact Me</a> <a href="mailto:adityapatil@trrsrobotics.ezyro.com">E-mail Used For My School's Robotics Stuff</a>
-- ⚡ Fun facts: Student @ The Roman Ridge School Robotics Advanced Group, intimidated by *Breadboards*; *Arduino*; *Cryptography*; and 74xx TTL; 
-- Crushes on: Processors, F1, Old Hardware, 6502, Z80, 74xxx
+-  I’m currently learning Cybersecurity, ROS, Microprocessor Design, Rust, Data Structures & Algorithms and ML!
+-  Ask me about Python, Some Rust-y Stuff, and Microarchitectures
+-  How to reach me: <a href="mailto:adipatil2912@gmail.com">E-Mail</a> <a href="https://c0ba1t.is-a.dev/">Website</a> <a href="https://c0ba1t.is-a.dev/hey">Contact Me</a> <a href="mailto:adityapatil@trrsrobotics.ezyro.com">E-mail Used For My School's Robotics Stuff</a>
+-  Fun facts: Student @ The Roman Ridge School Robotics Advanced Group, intimidated by *Breadboards*; *Arduino*; *Cryptography*; and 74xx TTL; 
+-  Crushes on: Processors, F1, Old Hardware, 6502, Z80, 74xxx
 -->
 
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fceraqlmys5mcahsmxhnyfq3ce&unique=true)
