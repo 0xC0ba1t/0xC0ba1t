@@ -4,29 +4,27 @@
 ### ```macro_rules! greet { () => { "hey!" }; }```
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+My+Name+is+Aditya!+Rust+Dev%2C+;And+low-level+Enthusiast;Working+on+Cool+stuff%3A+zero%2C;I'm+a+Student+at%3A;The+Roman+Ridge+School+%5BF4A%5D)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=550&width=435&separator=%3C&lines=hi!+my+name+is+aditya!%3C15+y%2Fo+ML+enthusiast+and+aspirant%3Cinterested+in+general+programming;%3Clow+level+hw%2Fsw+%26+networking%3Cstudent+%40+The+Roman+Ridge+School%3Ccheck+out+my+profile+below!)](https://git.io/typing-svg)
 <br>
 I am Aditya Patil <del>11</del> <del>12</del> <del>13</del> <del>14</del> 15 year-old software developer, ML student, Graphics Student and Cybersecurity Student
 
 <br>
 
-    I am very passionate about low-level hw/sw, computers in general as well as microprocessors/microarchitecture 
-    design
+    I am very passionate about machine learning & low-level hw/sw, as well as networking and general programming
 
 <br>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fceraqlmys5mcahsmxhnyfq3ce&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31fceraqlmys5mcahsmxhnyfq3ce&redirect=true)
 
   ### ```!! hobbies```
--  Coding
--  Hacking
--  Science (Quantum Physics, Physics, Chemistry, and Astronomy)
--  Badminton
--  Gaming
--  Hardware Design 
--  Learning
--  Hoarding Data 
--  Watching F1 
+-  coding / computer science
+-  machine learning
+-  science (physics, chemistry)
+-  badminton
+-  gaming
+-  networking
+-  sysadmin
+-  f1 (```essere ferrari, forza ferrari!```)
 
 <br>
 
@@ -34,7 +32,7 @@ I am Aditya Patil <del>11</del> <del>12</del> <del>13</del> <del>14</del> 15 yea
 
 <br>
 
-```pub fn _current_projects() {``` ```zero: rust_os``` ```prettyprint: stable_diffusion_pytorch``` ```}```
+```pub fn _current_projects() {```  ```prettyprint: stable_diffusion_pytorch``` ```}```
 
 <br>
 
@@ -42,7 +40,7 @@ I am Aditya Patil <del>11</del> <del>12</del> <del>13</del> <del>14</del> 15 yea
 
 <br>
 
-```pub fn _most_ambitious_project() {``` ```zero: rust_os``` ```}```
+```pub fn _most_ambitious_project() {``` ```zero: rust_os```; ```prettyprint: stable_diffusion_pytorch``` ```}```
 
 <br>
 
@@ -72,11 +70,8 @@ I am Aditya Patil <del>11</del> <del>12</del> <del>13</del> <del>14</del> 15 yea
 
 ### ```fn random_items(something) {```
   
--  I’m currently learning Cybersecurity, ROS, Microprocessor Design, Rust, Data Structures & Algorithms and ML!
--  Ask me about Python, Some Rust-y Stuff, and Microarchitectures
--  How to reach me: <a href="mailto:adipatil2912@gmail.com">E-Mail</a> <a href="https://c0ba1t.is-a.dev/">Website</a> <a href="https://c0ba1t.is-a.dev/hey">Contact Me</a> <a href="mailto:adityapatil@trrsrobotics.ezyro.com">E-mail Used For My School's Robotics Stuff</a>
--  Fun facts: Student @ The Roman Ridge School Robotics Advanced Group, intimidated by *Breadboards*; *Arduino*; *Cryptography*; and 74xx TTL; 
--  Crushes on: Processors, F1, Old Hardware, 6502, Z80, 74xxx
+-  How to reach me: <a href="mailto:main0xc0ba1t@duck.com">E-Mail</a> <a href="https://c0ba1t.is-a.dev/">Website</a> <a href="https://c0ba1t.is-a.dev/hey">Contact Me</a>
+-  Fun facts: Student @ The Roman Ridge School Advanced Robotics 
 -->
 
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fceraqlmys5mcahsmxhnyfq3ce&unique=true)
@@ -85,33 +80,13 @@ I am Aditya Patil <del>11</del> <del>12</del> <del>13</del> <del>14</del> 15 yea
 <br>
 <br>
 
-### ```def statistics(known_langs, gh_profile, top_langs):```
+### ```def statistics(known_langs):```
 
 <br>
 
 ![Known Languages](https://img.shields.io/badge/Known%20Languages-rust_python_tiny_go_html_javascript_sh_some_c_and_c++_a_sprinkle_of_systemverilog_and_sql-red?style=for-the-badge&logo=micropython)
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xC0ba1t&layout=compact)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xC0ba1t&layout=compact)](https://github.com/0xC0ba1t)
-
-### ```pub unsafe fn fav_repos(repo_index: u8) {```
-
-<br>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=0xC0ba1t&repo=zero&show_owner=true&theme=dark)](https://github.com/0xC0ba1t/zero)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=0xC0ba1t&repo=SnapdragonLLM&show_owner=true&theme=dark)](https://github.com/0xC0ba1t/SnapdragonLLM)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=0xC0ba1t&repo=prettyprint&show_owner=true&theme=dark)](https://github.com/0xC0ba1t/prettyprint)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=0xC0ba1t&repo=0xc0ba1t.github.io&show_owner=true&theme=dark)](https://github.com/0xC0ba1t/0xc0ba1t.github.io)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=trrsrobotics&repo=Asterisk&show_owner=true&theme=dark)](https://github.com/trrsrobotics/Asterisk)
-
-```}```
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=300&pause=1000&color=F76B6B&width=435&lines=Hiya+Again!;I+work+on+zero%2C+and+many+other+projects;Fun+Facts+%3A%3A%3A+%3E%3E;Huge+Night+Owl;Always+first+in+Computer+Science;Suck+at+art;Have+a+Dog+called+%5BREDACTED%5D;Leader+of+the+Advanced+Robotics+Team;...have+a+nice+day!!+%3AD)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&width=435&lines=still+here%3F;here's+some+fun+facts+then%3A;always+first+in+computer+science;finished+igcse's+in+2026;i+suck+at+art+(unless+made+by+code);led+school's+advanced+robotics+group;cya!)](https://git.io/typing-svg)
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/0xC0ba1t/0xC0ba1t/output/snake.svg" alt="Snake animation" />
